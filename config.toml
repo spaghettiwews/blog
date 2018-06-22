@@ -1,0 +1,22 @@
+baseurl = "https://wews.co/"
+title = "a blog of spaghettiwews"
+author = "spaghettiwews"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "a blog of spaghettiwews"
+
+[[menu.main]]
+    name = "About"
+    url  = "/content/about.html"
+[[menu.main]]
+    name = "Projects"
+    url  = "#"
+[[menu.main]]
+    name = "Resume"
+    url  = "#"
