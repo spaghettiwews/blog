@@ -4,6 +4,7 @@ date: 2018-05-12T12:28:05+02:00
 draft: false
 ---
 
+Well hello there. This here is how this started:
 
 ```
 hugo -t black-and-light
