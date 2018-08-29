@@ -33,6 +33,15 @@ if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')
 4. change site and home url protocols to https 
 5. lastly, your site will most likely still have some resources being loaded over insecure http. hunt these down and deeeestroy them. just kidding, just search & replace absolute urls with relatives ones where you can. if some http resources still remain after that, figure it out son. 
 
+### **Update (29/08/2018)**
+While playing around with Content Security Policy I stumbled upon the **directive** ```upgrade-insecure-requests``` which tells a browser or user agent to load any resources with HTTP URLS over HTTPS instead. This directive is intended for sites that have a large number of HTTP URLs that would otherwise need to be re-written by hand.
+
+So instead of re-writing all those pesky insecure URLs by hand as suggested by an older version of myself, if possible, just use the CSP directive by adding it to your site's headers or by adding the below meta tag to your `head` section.
+
+```
+// meta tag in the head
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+```
 
 
 ### **did you win?**
@@ -42,4 +51,5 @@ yes? good! now it's time feel good about yourself for completing this simple tas
 
 1. [Troubleshooting Mixed Content Warnings with HTTPS - https://blog.sucuri.net/2016/04/troubleshooting-mixed-content-warnings-https.html](https://blog.sucuri.net/2016/04/troubleshooting-mixed-content-warnings-https.html)
 2. [How to Install an SSL Certificate - https://sucuri.net/guides/how-to-install-ssl-certificate](https://sucuri.net/guides/how-to-install-ssl-certificate)
+3. [CSP: upgrade-insecure-requests - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/upgrade-insecure-requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/upgrade-insecure-requests)
 
