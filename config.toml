@@ -3,20 +3,21 @@ title = "a blog of spaghettiwews"
 author = "spaghettiwews"
 canonifyurls = true
 languagecode = "en"
-theme = "black-and-light"
-
-pygmentsstyle       = "bw"
-pygmentscodefences  = true
+theme = "hugo-journal"
 
 [params]
   sitename = "a blog of spaghettiwews"
+  description = "there is yet insufficient data for a meaningful answer"
+  githubUsername = "spaghettiwews"
+  tagline = "there is yet insufficient data for a meaningful answer"
 
-[[menu.main]]
-    name = "About"
-    url  = "#"
-[[menu.main]]
-    name = "Projects"
-    url  = "#"
-[[menu.main]]
-    name = "Resume"
-    url  = "#"
+# [params.work]
+  # jobTitle = "occupation"
+  # company = "the company"
+  # companyUrl = "https://the.company.url/"
+# [params.gpg]
+  # key = "0x1111111111111111"
+  # fingerprint = "0000 0000 0000 0000 0000  0000 0000 0000 0000 0000"
+  # link = "https://pgp.mit.edu/pks/lookup?op=get&search=0x1111111111111111"
+[params.resume]
+  link = "#"  
