@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:spaghettiwews/spaghettiwews.github.io.git
 	branch = master
+[submodule "themes/hugo-journal"]
+	path = themes/hugo-journal
+	url = https://github.com/damiencaselli/hugo-journal.git
