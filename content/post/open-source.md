@@ -4,7 +4,7 @@ date: 2019-02-17T15:32:47+02:00
 draft: false
 ---
 
-I like well designed software. I also like free things, as I'm sure do you. Every now and again these two qualities intersect and I'll stumble upon a free, cool piece of software that I think will be useful to me in the future. Here's a running list of said applications/systems/software:
+I like **well designed** software. I also like **free** things, as I'm sure do you. Every now and again these two qualities/properties/attributes intersect and I'll stumble upon a free, cool piece of software that I reckon may be useful to me in the future. While there's a 90% chance that I won't ever use most of these, here's a running list of said applications/systems/software nonetheless:
 
 1. **Grafana** - *The open platform for analytics and monitoring*
 	- [https://grafana.com/](https://grafana.com/)
