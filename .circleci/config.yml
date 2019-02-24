@@ -30,7 +30,7 @@ jobs:
             git config --global user.email "spaghettiwews@outlook.com"
             git config --global user.name "spaghettiwews"
             cd public
-            git checkout master
+            # git checkout master
             git add .
             msg="rebuilding site `date`"
             if [ $# -eq 1 ]
