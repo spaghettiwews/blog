@@ -2,53 +2,39 @@ version: 2
 jobs:
   build:
     docker:
-      - image: debian:stretch
+      - image: circleci/golang:1.10-stretch-node-browsers-legacy
 
     steps:
       - add_ssh_keys:
           fingerprints:
             - "62:4d:12:4f:9c:67:05:f7:1e:bc:da:e1:0d:95:ea:c4"
-      - run: |
-          apt-get update -y && apt-get upgrade -y && apt-get install git -y && apt-get install golang-go -y && apt-get install wget -y
-          # mkdir $HOME/src
-          # cd $HOME/src
-          # git clone https://github.com/gohugoio/hugo.git
-          #cd hugo
-          #go install --tags extended
-          cd ~
-          wget https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_0.54.0_Linux-64bit.deb
-          dpkg -i hugo*.deb
-          hugo version
-
-      - run: |
-          echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
-
-          mkdir blog
-          cd blog
-          git clone --recurse-submodules https://github.com/spaghettiwews/blog.git .
-
-          git config --global user.email "spaghettiwews@outlook.com"
-          git config --global user.name "spaghettiwews"
-
-          # Build the project.
-          hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
-
-          # Go To Public folder
-          cd public
-          git branch
-          git checkout master
-          # Add changes to git.
-          git add .
-            
-          # Commit changes.
-          msg="rebuilding site `date`"
-          if [ $# -eq 1 ]
-            then msg="$1"
-          fi
-          git commit -m "$msg"
-
-          # Push source and build repos.
-          #git push origin master
-          #git remote -v
-          #git status
-          git push 
+      - run:
+          name: Install dependencies
+          command: |
+            cd ~
+            wget https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_0.54.0_Linux-64bit.deb
+            sudo dpkg -i hugo*.deb
+            hugo version
+      - checkout
+      - run:
+          name: Checkout the submodules
+          command: |
+            git submodule sync --recursive
+            git submodule update --recursive --init
+      - run:
+          name: Build site from source
+          command: hugo
+      - run:
+          name: Deploy site
+          command: |
+            git config --global user.email "spaghettiwews@outlook.com"
+            git config --global user.name "spaghettiwews"
+            cd public
+            git checkout master
+            git add .
+            msg="rebuilding site `date`"
+            if [ $# -eq 1 ]
+              then msg="$1"
+            fi
+            git commit -m "$msg"
+            git push origin master
