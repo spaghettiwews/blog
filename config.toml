@@ -20,4 +20,8 @@ theme = "hugo-journal"
   # fingerprint = "0000 0000 0000 0000 0000  0000 0000 0000 0000 0000"
   # link = "https://pgp.mit.edu/pks/lookup?op=get&search=0x1111111111111111"
 [params.resume]
-  link = "#"  
+  link = "/page/resume"  
+
+[permalinks]
+  #post = "/:year/:month/:filename/"
+  page = "/page/:title/"
