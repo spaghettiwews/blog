@@ -21,6 +21,9 @@ jobs:
           command: |
             git submodule sync --recursive
             git submodule update --recursive --init
+            cd public # a workaround to an annoying problem of "[detached HEAD dbeb7e3]"
+            git checkout master
+            cd .. # yeh it's disgusting and not elegant. don't @ me. i'm tired
       - run:
           name: Build site from source
           command: hugo
@@ -30,7 +33,6 @@ jobs:
             git config --global user.email "spaghettiwews@outlook.com"
             git config --global user.name "spaghettiwews"
             cd public
-            # git checkout master
             git add .
             msg="rebuilding site `date`"
             if [ $# -eq 1 ]
