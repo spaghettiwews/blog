@@ -9,17 +9,25 @@ draft: false
 ### Education
 ---
 ##### Bachelor of Technology Honours Degree in Computer Science
-*Harare Institute of Technology*: August 2008 – May 2012
+*Harare Institute of Technology*: December 2008 – June 2012
 
 <br/>
 
 ### Skills
 ---
 
-- HTML, CSS, Javascript, jQuery, RWD
-- PHP, Python, RESTful APIs, MySql
+Business Analysis, Solution Design, Application Development, Project Management - SDLC, Kanban, Online Payments, Security, Accessibility and Usability, Performance, Research, Recruitment
+
+<br/>
+
+### Tech
+---
+
+- PHP, Javascript, Node.js, C#, RESTful APIs, MySql
 - Content Management Systems, Woocommerce, Laravel, Shopify
-- Git
+- Git, CI/CD, SSH
+- Agile, Waterfall, Object Oriented Design & Development, MVC
+- Microsoft Visual Studio, VS Code, Postman, Docker, Virtualbox, Bash, DevTools
 
 <br/>
 
@@ -29,7 +37,7 @@ draft: false
 *Webdev Group, Harare*: February 2015 - Current
 
 
-##### Web Developer
+##### Developer
 *Webdev Group, Harare*: May 2013 - February 2015
 
 <br/>
