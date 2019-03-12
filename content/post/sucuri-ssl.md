@@ -22,7 +22,7 @@ draft: false
 2. once that is done, select Partial HTTPS under the HTTPS/SSL tab. Partial SSL because sucuri is reverse proxying to a non-https server. Full HTTPS is for when the hosting server already has an SSL cert installed - then it's an https-to-https connection all the way.
 3. Next up include the code below in your **wp-config.php** file to prevent the site from going into an infinite redirect loop. Read up more on this here: [https://codex.wordpress.org/Administration_Over_SSL](https://codex.wordpress.org/Administration_Over_SSL)
 
-```
+```php
 /* Handle HTTPS Protocol */
 
 if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')
@@ -38,8 +38,8 @@ While playing around with Content Security Policy I stumbled upon the **directiv
 
 So instead of re-writing all those pesky insecure URLs by hand as suggested by an older version of myself, if possible, just use the CSP directive by adding it to your site's headers or by adding the below meta tag to your `head` section.
 
-```
-// meta tag in the head
+```html
+<!-- meta tag in the head -->
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 ```
 

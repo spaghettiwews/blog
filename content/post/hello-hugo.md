@@ -6,7 +6,7 @@ draft: false
 
 Well hello there. This here is how this started:
 
-```
+```bash
 hugo -t black-and-light
 cd public
 git add .

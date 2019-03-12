@@ -28,3 +28,7 @@ I like **well designed** software. I also like **free** things, as I'm sure do y
 	- [https://rasa.com/](https://rasa.com/)
 11. **Standard Notes** - *Standard Notes is a safe place for your notes, thoughts, and life's work.*
 	- [https://standardnotes.org/](https://standardnotes.org/)
+12. **SecureDrop** - *SecureDrop is an open source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.*
+	- [https://securedrop.org/](https://securedrop.org/)
+13. **Syncthing** - *Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.*
+	- [https://syncthing.net/](https://syncthing.net/)

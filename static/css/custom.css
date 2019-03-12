@@ -1,12 +1,33 @@
 :root {
 	--site-type: 'Work Sans', sans-serif;
 	--main-accent: #6402a8;
-	--bg-color: #fbfb90;
+    --bg-color: #fbfb90;
+    --cheats-heading-color: #32cd32;
 }
 
 html {
 	font-family: var(--site-type);
 	background: var(--bg-color);
+}
+
+.site-header {
+    position: relative;
+}
+
+.site-header::after {
+    content: "";
+    display: block;
+    width: 12px;
+    height: 12px;
+    background: #000 url() 0 0 no-repeat;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background-size: 100%;
+    outline: 2px solid #000;
+    outline-offset: 5px;
+
 }
 
 p.tagline {
@@ -19,4 +40,77 @@ a {
 
 blockquote {
 	border-color: var(--main-accent);
+}
+
+footer {
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+
+/* Cheatsheets */
+
+.cheats {
+    margin: 0 0 0 1rem;
+}
+
+.cheats::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.cheats article {
+    font-size: 12px;
+    font-family: Fira Mono;
+    color: #fff;
+    background: #000;
+    display: table;
+    float: left;
+    margin: 0 1rem 1rem 0;
+    padding: 20px;
+    border-radius: 3px;
+    text-align: left;
+    background: #232526;
+    background: -webkit-linear-gradient(to top, #414345, #232526);
+    background: linear-gradient(to top, #414345, #232526);
+}
+
+.cheats article header h3 {
+    font-size: 1rem;
+    color: var(--cheats-heading-color);
+}
+
+.cheats th, .cheats td {
+    padding: 3px 5px;
+}
+
+.cheats table tr th:not(:last-child), .cheats table tr td:not(:last-child) {
+    border-right: 1px dashed rgba(238, 238, 238, 0.5);
+}
+
+.cheats table td {
+    border-top: 1px dashed rgba(238, 238, 238, 0.5);
+}
+
+code[class*="language-"], pre[class*="language-"] {
+    font-family: Fira Mono, monospace;
+    font-size: 12px;
+}
+
+span.token.class-name {
+    color: #d0d07f;
+}
+
+pre code {
+    padding: 0;
+}
+
+input.filter {
+    width: 100%;
+    border: 3px solid #6959a37a;
+    line-height: 2rem;
+    padding: 0 0.7rem;
+    border-radius: 3px;
+    font: 16px/2.3rem Work Sans, sans-serif; 
 }
