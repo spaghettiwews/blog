@@ -1,7 +1,7 @@
 ---
 title: "Using the System.Text.RegularExpressions.Regex class"
 date: 2019-03-12T18:52:23+02:00
-draft: true
+draft: false
 ---
 ```csharp
 string zipexp = @"\d{5}((-|\s)?\d{4})?$";

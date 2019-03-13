@@ -1,7 +1,7 @@
 ---
 title: "Using the C# Compiler at the Command Line"
 date: 2019-03-12T19:05:54+02:00
-draft: true
+draft: false
 ---
 ```bash
 C:\>csc /t:library /out:reslib.dll mysource.cs

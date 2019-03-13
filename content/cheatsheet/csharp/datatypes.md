@@ -1,7 +1,7 @@
 ---
 title: "Data Types"
 date: 2019-03-07T19:30:34+02:00
-draft: true
+draft: false
 ---
 
 Primitive|Size|Example

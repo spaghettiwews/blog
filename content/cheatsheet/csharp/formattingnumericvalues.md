@@ -1,7 +1,7 @@
 ---
 title: "Formatting Numeric Values"
 date: 2019-03-10T18:04:04+02:00
-draft: true
+draft: false
 ---
 **Format Item Syntax:** {index[,alignment] [:format string]}
 

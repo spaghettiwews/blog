@@ -1,7 +1,7 @@
 ---
 title: "Formatting Date Values"
 date: 2019-03-12T14:27:08+02:00
-draft: true
+draft: false
 ---
 
 DateTime Formatting: (January 19, 2005 16:05:20) en-US

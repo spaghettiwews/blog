@@ -1,7 +1,7 @@
 ---
 title: "Arrays"
 date: 2019-03-09T07:32:21+02:00
-draft: true
+draft: false
 ---
 
 **Declaration**
