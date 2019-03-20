@@ -21,6 +21,10 @@
           <a itemprop="sameAs" href="https://github.com/{{ .Site.Params.githubUsername }}" title="GitHub">github</a>
           {{- end }}
 
+          {{ if isset .Site.Params "kb" -}}
+          <a itemprop="sameAs" href="{{ .Site.Params.kb.link }}" title="Personal Knowledgebase">kb</a>
+          {{- end }}
+
           {{ if isset .Site.Params "twitterusername" -}}
           <a itemprop="sameAs" href="https://twitter.com/{{ .Site.Params.twitterUsername }}" title="Twitter">TW</a>
           {{- end}}
@@ -34,9 +38,8 @@
       </footer>
     </div>
 
-  <script src="{{ .Site.BaseURL }}/js/prism.js"></script>
+  <script async src="{{ .Site.BaseURL }}/js/prism.js"></script>
   <!-- <script src="{{ "js/highlight.pack.js" | relURL }}"></script> -->
   <!-- <script>hljs.initHighlightingOnLoad();</script> -->
-
   </body>
 </html>

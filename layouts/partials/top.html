@@ -22,13 +22,42 @@
     <meta name="description" content="{{ .Description }}">
     {{- end }}
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Work+Sans:400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gentium+Basic:400,700">
     <!-- <link rel="stylesheet" href="{{ "css/highlight.css" | relURL }}"> -->
+    <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}images/icon.png">
     <link rel="stylesheet" href="{{ "css/journal.css" | relURL }}">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/prism-onedark.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/custom.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/prism-onedark.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
     <link href="{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+    <script>
+      document.addEventListener("DOMContentLoaded", function(){
+    
+        if (localStorage) {
+          setTheme = (localStorage.getItem("theme")) ? localStorage.getItem("theme") : "notheme";
+          switchToTheme(setTheme);
 
+          document.querySelector("#themeToggle").addEventListener("click", function(){
+            currentTheme = (localStorage.getItem("theme")) ? localStorage.getItem("theme") : "notheme";
+            if (currentTheme == "notheme" || currentTheme == "dark") {
+              switchToTheme("light");
+            }
+            else if (currentTheme == "light") {
+              switchToTheme("dark");
+            }
+          });
+        }
+    
+      });
+
+      // window.addEventListener("load", function(){
+      //   document.querySelector("body").removeAttribute("style");
+      // });
+    
+      function switchToTheme(theme) {
+        document.querySelector("body").setAttribute("class", theme);
+        localStorage.setItem("theme", theme);
+      }
+      </script>
   </head>
 
   <body>
@@ -36,11 +65,12 @@
       <header class="site-header">
         <h1><a href="/">{{ .Site.Title }}</a></h1>
         <p class="tagline">{{ .Site.Params.tagline }}</p>
+        <button id="themeToggle">toggle theme</button>
       </header>
       {{ if .IsHome -}}
 
       {{- else -}}
       <nav class="site-nav">
-        <a href="{{ .Site.BaseURL }}">Index</a>
+        <a href="{{ .Site.BaseURL }}">back to /</a>
       </nav>
       {{- end }}
