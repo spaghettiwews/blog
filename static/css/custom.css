@@ -30,6 +30,7 @@ body.light .site-header::after {
 
 body.light #themeToggle {
     background: var(--dark-bg-color);
+    border: 1px solid var(--dark-bg-color);
 }
 
 body.light #themeToggle::after {
