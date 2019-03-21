@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="{{ .Site.Author.name }}">
     <meta property="og:url" content="{{ .Permalink }}">
+    <meta name="theme-color" content="">
 
     {{ if .IsHome -}}
     <title>{{ .Site.Title }}</title>
@@ -31,6 +32,8 @@
     <link href="{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
     <script>
       document.addEventListener("DOMContentLoaded", function(){
+
+        themes = {"dark": "#001d26","light": "#fffbcc"};
     
         if (localStorage) {
           setTheme = (localStorage.getItem("theme")) ? localStorage.getItem("theme") : "notheme";
@@ -48,13 +51,10 @@
         }
     
       });
-
-      // window.addEventListener("load", function(){
-      //   document.querySelector("body").removeAttribute("style");
-      // });
     
       function switchToTheme(theme) {
         document.querySelector("body").setAttribute("class", theme);
+        document.querySelector("meta[name='theme-color']").setAttribute("content", themes[theme]);
         localStorage.setItem("theme", theme);
       }
       </script>

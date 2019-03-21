@@ -67,7 +67,7 @@ a:hover, a:focus {
 
 body.dark #themeToggle {
     background-color: var(--light-bg-color);
-    border: 1px solid var(--dark-bg-color);
+    border: 1px solid var(--light-bg-color);
 }
 
 body.dark #themeToggle::after {
