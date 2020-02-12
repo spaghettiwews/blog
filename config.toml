@@ -3,7 +3,7 @@ title = "a blog of spaghettiwews"
 author = "spaghettiwews"
 canonifyurls = true
 languagecode = "en"
-theme = "hugo-journal"
+theme = "hugo-novela"
 
 [params]
   sitename = "a blog of spaghettiwews"
@@ -11,14 +11,6 @@ theme = "hugo-journal"
   githubUsername = "spaghettiwews"
   tagline = "there is yet insufficient data for a meaningful answer"
 
-# [params.work]
-  # jobTitle = "occupation"
-  # company = "the company"
-  # companyUrl = "https://the.company.url/"
-# [params.gpg]
-  # key = "0x1111111111111111"
-  # fingerprint = "0000 0000 0000 0000 0000  0000 0000 0000 0000 0000"
-  # link = "https://pgp.mit.edu/pks/lookup?op=get&search=0x1111111111111111"
 [params.resume]
   link = "/page/resume"  
 
