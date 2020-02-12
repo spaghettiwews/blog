@@ -1,3 +1,45 @@
 .logo-link h1 {
   font-size: 28px;
 }
+#progressBar {
+  position: fixed;
+}
+
+blockquote > p {
+  font-size: 18px;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.article-hero-image {
+  position: relative;
+  margin-bottom: 160px;
+}
+
+.image-container {
+  background-color: #ffffff;
+}
+
+#articleContent {
+  padding-top: 0;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+ul {
+  list-style: circle;
+  counter-reset: revert;
+}
+ol {
+  list-style: decimal;
+}
+
+ul li::before,
+ol li::before {
+  display: none;
+}
+
+ol ul {
+  display: block;
+  padding: 0 0 0 1rem;
+}
