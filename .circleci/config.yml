@@ -21,9 +21,9 @@ jobs:
           command: |
             git submodule sync --recursive
             git submodule update --recursive --init
-            cd public # a workaround to an annoying problem of "[detached HEAD dbeb7e3]"
+            cd public
             git checkout master
-            cd .. # yeh it's disgusting and not elegant. don't @ me. i'm tired
+            cd ..
       - run:
           name: Build site from source
           command: hugo
@@ -39,8 +39,4 @@ jobs:
               then msg="$1"
             fi
             git commit -m "$msg"
-            git push origin master
-            cd ..
-            git add .
-            git commit -m "update submodule `date`"
             git push origin master
