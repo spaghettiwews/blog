@@ -1,5 +1,5 @@
 ---
-title: "Using a reverse proxy to provide ssl to a wordpress site hosted on a non-https server"
+title: "Using a reverse proxy to provide a secure connection to a WordPress site"
 date: 2018-06-22T22:10:28+02:00
 draft: false
 ---
