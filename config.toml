@@ -37,6 +37,11 @@ theme = "hugo-jessie"
     url = "https://wews.co/index.xml"
     pre = "/static/icons/rss.svg"
     weight = 30
+    
+    [[menu.footer]]
+    name = "Attribution"
+    url = "/attribution/"
+    weight = 10
 
 [permalinks]
   post = "/:year/:month/:day/:filename/"
