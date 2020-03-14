@@ -1,9 +1,9 @@
 ---
 title: "Fixing the WP All Import caching issue with a quick hack"
 date: 2020-02-14T16:06:03+02:00
+subtitle: "Be gone! Annoying little bug."
+featured: false
 draft: false
-hero: ""
-heroCaption: ""
 ---
 
 There's an annoying caching issue I've been experiencing with WP All import, the WordPress CSV/XML plugin we use for importing products into WooCommerce from CSV/XML files.
@@ -18,7 +18,7 @@ The issue is that once the plugin downloads the file the first time an import ru
 
 I'm not hosting on with any of those companies nor do I have time to troubleshoot with the hosting team to fix this "the right way". It's 16:30, on a Friday.
 
-After incessantly googling for an easy solution without success, the easiest one I could think of was to use a cache-busting technique that I've seen used to solve browser caching issues with assets like CSS and JS. i.e. *adding a querystring parameter with a random value to the URL of the asset.*
+After incessantly googling for an easy solution without success, the easiest one I could think of was to use a cache-busting technique that I've seen used to solve browser caching issues with assets like CSS and JS. i.e. _adding a querystring parameter with a random value to the URL of the asset._
 
 First we need to find the function that gets called to download the file at the URL we provide. A quick vscode search finds us the function: `get_file_curl`
 

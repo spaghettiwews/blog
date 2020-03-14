@@ -1,9 +1,9 @@
 ---
 title: "How to install/use Hugo in WSL (Ubuntu 18.04)"
 date: 2020-02-10T14:20:47+02:00
+subtitle: "Because I will forget this. I guarantee it."
+featured: false
 draft: false
-hero: "/images/joshua-hoehne-zs5ybmIY0fA-unsplash.jpg"
-heroCaption: "An old, rusty Ford 100. My dad had one of these when we were growing up. He still does I think."
 ---
 
 It's been a while since I wrote on this blog and today when I `git clone`d the blog repo and attempted to update it, I quickly realised that I could not for the life of me remember all of the commands I needed to run in order to download the theme submodule and deploy the site after writing a new post.
