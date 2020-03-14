@@ -1,19 +1,43 @@
 baseurl = "https://wews.co/"
 title = "a blog of spaghettiwews"
-author = "spaghettiwews"
+author = "Welington Maposa"
 canonifyurls = true
 languagecode = "en"
-theme = "hugo-novela"
+theme = "hugo-jessie"
 
 [params]
-  sitename = "a blog of spaghettiwews"
-  description = "there is yet insufficient data for a meaningful answer"
-  githubUsername = "spaghettiwews"
   tagline = "there is yet insufficient data for a meaningful answer"
+  author = "Welington Maposa"
 
-[params.resume]
-  link = "/page/resume"  
+[menu]
+    [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 10
+
+    #[[menu.main]]
+    #name = "Projects"
+    #url = "/projects/"
+    #weight = 50
+
+    #[[menu.social]]
+    #name = "LinkedIn"
+    #url = "https://www.linkedin.com/"
+    #pre = "/static/icons/linkedin.svg"
+    #weight = 20
+
+    [[menu.social]]
+    name = "Github"
+    url = "https://www.github.com/spaghettiwews"
+    pre = "/static/icons/github.svg"
+    weight = 10
+
+    [[menu.social]]
+    name = "RSS"
+    url = "https://wews.co/index.xml"
+    pre = "/static/icons/rss.svg"
+    weight = 30
 
 [permalinks]
-  #post = "/:year/:month/:filename/"
-  page = "/page/:title/"
+  post = "/:year/:month/:day/:filename/"
+  page = "/:title/"
