@@ -6,42 +6,53 @@ draft: false
 
 ## Welington Maposa
 
-### Education
 ---
-##### Bachelor of Technology Honours Degree in Computer Science
-*Harare Institute of Technology*: December 2008 – June 2012
 
-<br/>
+### Experience
+
+**Lead Developer** / Webdev Pvt. Ltd, Harare / February 2015 - Present
+
+In this role I lead a team of full-stack and frontend developers with my main duties spanning the entire software development life cycle of our web projects.
+
+**Web Developer** / Webdev Pvt. Ltd, Harare / May 2013 - February 2015
+
+Built websites for various types of clients ranging from corporate websites, online stores, to large content management systems for government institutions and news publishers.
+
+Worked as part of the team that redeveloped Zimbabwe's largest online classifieds platform from Geodesic's GeoCore Classifieds to Laravel. I was responsible for implementing the frontend using Bootstrap and JS.
+
+---
 
 ### Skills
----
 
 Business Analysis, Solution Design, Application Development, Project Management - SDLC, Kanban, Online Payments, Security, Accessibility and Usability, Performance, Research, Recruitment
 
-<br/>
-
-### Tech
 ---
 
-- PHP, Javascript, Node.js, C#, RESTful APIs, MySql
-- Content Management Systems, Woocommerce, Laravel, Shopify
-- Git, CI/CD, SSH
+### Tech
+
+- PHP, Javascript, ReactJS, Node.js, C#, RESTful APIs, MySql
+- Content Management Systems, WooCommerce, Laravel, Shopify
+- Git, CI/CD
 - Agile, Waterfall, Object Oriented Design & Development, MVC
 - Microsoft Visual Studio, VS Code, Postman, Docker, Virtualbox, Bash, DevTools
 
-<br/>
-
-### Experience
 ---
-##### Senior Developer
-*Webdev Group, Harare*: February 2015 - Current
 
+### Education
 
-##### Developer
-*Webdev Group, Harare*: May 2013 - February 2015
+**Bachelor of Technology Honours Degree in Computer Science** / Harare Institute of Technology / December 2008 - June 2012
 
-<br/>
+---
 
 ### Personal projects
+
+- [rssdeck](https://rssdeck.wews.co) / A web RSS client.
+- [hugonews](https://github.com/spaghettiwews/hugonews/) / A Hugo theme for a personal link aggregation site.
+
 ---
 
+### Hobbies
+
+- Listening to podcasts and audiobooks
+- Reading
+- Cycling
