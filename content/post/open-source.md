@@ -38,3 +38,9 @@ draft: false
     - [https://www.heidisql.com](https://www.heidisql.com)
 16. **WinMerge** - _WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle._
     - [https://winmerge.org/](https://winmerge.org/)
+17. **Monica** - _Personal CRM. Remember everything about your friends, family and business relationships._
+    - [https://www.monicahq.com/](https://www.monicahq.com/)
+18. **Huginn** - _Huginn is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take actions on your behalf._
+    - [https://github.com/huginn/huginn](https://github.com/huginn/huginn)
+19. **Almond** - _The Open, Privacy-Preserving Virtual Assistant. Almond translates your commands into a personalized program._
+    - [https://almond.stanford.edu/](https://almond.stanford.edu/)
