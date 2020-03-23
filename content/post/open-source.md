@@ -44,3 +44,5 @@ draft: false
     - [https://github.com/huginn/huginn](https://github.com/huginn/huginn)
 19. **Almond** - _The Open, Privacy-Preserving Virtual Assistant. Almond translates your commands into a personalized program._
     - [https://almond.stanford.edu/](https://almond.stanford.edu/)
+20. **OpenRefine** - _OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data._
+    - [https://openrefine.org/](https://openrefine.org/)
