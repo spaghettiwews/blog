@@ -12,6 +12,10 @@ Today I started working from home for the first time ever and had a Sudden Clari
 
 ---
 
+Yesterday, Zimbabwe recorded its first death from this COVID-19 pandemic. The details surrounding the young man's death that came to light [today](https://web.archive.org/web/20200324195057/https://dailynews.co.zw/makamba-family-fumes-over-zororos-death/) are horrific to say the least. Horrific but unsurprising, sadly. Our public health infrastructure has been in shambles for years now. The government is woefully unprepared to deal with the few cases that have been confirmed, let alone a full-on outbreak. While we may be on the verge of a serious unmitigated disaster, there's still a reluctance to act and take decisive action by the government. A leadership vacuum it's been called by some. Sigh... We are quite literally on our own.
+
+---
+
 ## 23 March 2020
 
 I was listening to Bill Burr's Thursday Afternoon just before Friday Monday Morning podcast where he dropped the truest words said so far about this whole coronavirus situation:
