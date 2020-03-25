@@ -4,6 +4,7 @@ author = "Welington Maposa"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-jessie"
+enableGitInfo = true
 
 [params]
   tagline = "there is yet insufficient data for a meaningful answer"
@@ -19,6 +20,11 @@ theme = "hugo-jessie"
     #name = "Projects"
     #url = "/projects/"
     #weight = 50
+
+    [[menu.main]]
+    name = "Knowledgebase"
+    url = "/kb/"
+    weight = 50    
 
     #[[menu.social]]
     #name = "LinkedIn"
@@ -46,3 +52,4 @@ theme = "hugo-jessie"
 [permalinks]
   post = "/:year/:month/:day/:filename/"
   page = "/:title/"
+  kb = "/kb/:title/"
