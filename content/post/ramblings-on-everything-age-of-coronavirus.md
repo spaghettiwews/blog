@@ -6,6 +6,10 @@ featured: false
 draft: false
 ---
 
+## 25 March 2020
+
+Listening to the small kids on either side of my yard shouting to each over the fences, "MY MOM SAID I CAN'T COME THERE, WE'LL PLAY ANOTHER TIME!" is quite heart-warming, and a little sad. But it's reassuring that other parents are treating this with the seriousness it deserves.
+
 ## 24 March 2020
 
 Today I started working from home for the first time ever and had a Sudden Clarity Clarence realisation that most of my work is just me sitting in front of a screen sending text and commands to other machines over an interconnected network of other machines.
