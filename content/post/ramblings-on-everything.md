@@ -1,5 +1,5 @@
 ---
-title: "My ramblings on everything, in the age of coronavirus"
+title: "My ramblings on everything and everything"
 date: 2020-03-24T15:37:51+02:00
 subtitle: "This year has not gotten off to a good start. Everything's shit."
 featured: false
@@ -8,7 +8,21 @@ draft: false
 
 ## 25 March 2020
 
+Cycling at lunchtime and after work today was good refreshing fun! It'd been a while since I last cycled I'd almost forgotten how much I enjoyed it. I should really get back into it again, and hopefully spend a little less time in front of rectangular screens, as a former colleague used to refer to all these attention-sucking devices of ours.
+
+![A bicycle. My one.](/images/IMG_20190419_101426.jpg)
+
+---
+
+Judging by the past few weeks' headlines it appears that everything we are doing collectively right now, is the biggest, largest, hugest experiment of that _thing_ ever done. Remote working? [Check](https://web.archive.org/web/20200319165645/https://www.bloomberg.com/news/articles/2020-02-02/coronavirus-forces-world-s-largest-work-from-home-experiment). Online learning? [Check](https://web.archive.org/web/20200325185551/https://podcasts.apple.com/us/podcast/the-biggest-experiment-in-online-learning-ever/id1479107698?i=1000469119440). And to top it all off, I have newsletter spam about WFH from every other company/website out there: Trello, Heroku, Dev.to, and so on. To be clear, I'm not complaining. I most likely subscribed to all these outlets myself, and there's probably some reasonable advice on the topic in there. I just had to chuckle when I realised that I'd come across these headlines one too many times to the point where it was starting to feel like the Matrix was being glitchy. Look at this:
+
+![It's the biggest](/images/Screenshot_2020-03-25_biggest_work-from-home_experiment_at_DuckDuckGo.png)
+
+---
+
 Listening to the small kids on either side of my yard shouting to each over the fences, "MY MOM SAID I CAN'T COME THERE, WE'LL PLAY ANOTHER TIME!" is quite heart-warming, and a little sad. But it's reassuring that other parents are treating this with the seriousness it deserves.
+
+---
 
 ## 24 March 2020
 
