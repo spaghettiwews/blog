@@ -1,5 +1,5 @@
 ---
-title: "My ramblings on everything and everything"
+title: "Random ramblings: 2020"
 date: 2020-03-24T15:37:51+02:00
 subtitle: "This year has not gotten off to a good start. Everything's shit."
 featured: false
