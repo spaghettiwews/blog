@@ -8,9 +8,9 @@ draft: false
 
 ## 25 March 2020
 
-Cycling at lunchtime and after work today was good refreshing fun! It'd been a while since I last cycled I'd almost forgotten how much I enjoyed it. I should really get back into it again, and hopefully spend a little less time in front of rectangular screens, as a former colleague used to refer to all these attention-sucking devices of ours.
-
 ![A bicycle. My one.](/images/IMG_20190419_101426.jpg)
+
+Today, during my lunch break and after work, I went cycling again. Hadn't realised how long it had been since I last did. I should try and make more time for it.
 
 ---
 
