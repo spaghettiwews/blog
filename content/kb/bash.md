@@ -26,4 +26,14 @@ unzip -o filename.zip -d /path/target_directory/
 grep -a -C 200 'Unique string in text file' /dev/sdX > /mnt/c/Users/Welington/Downloads/recovered.txt
 ```
 
-This will search partition `sdX` for data containing the unique string specified and writes it to the file `recovered.txt`
+This will search partition `sdX` for data containing the unique string specified and write it to the file `recovered.txt`. Option `-C 200` will include 200 lines before and after each match, while option `-B 200` will only include the 200 before it.
+
+---
+
+### Delete all files and directories except some
+
+```bash
+rm -rf !(*.png|.git|.gitignore|CNAME|.|..)
+```
+
+This deletes all files and directories in the path where it is executed save for the ones that match the identifiers enclosed in the parentheses. For this command to work though, you must enable **Extended Pattern Matching** first running `shopt -s extglob`
