@@ -4,7 +4,7 @@ date: 2019-03-25T09:03:04+02:00
 draft: false
 ---
 
-## Move files and subdirectories using mv
+### Move files and subdirectories using mv
 
 ```bash
 mv /path/source_directory/* /path/target_directory/
@@ -12,7 +12,7 @@ mv /path/source_directory/* /path/target_directory/
 
 ---
 
-## Unzip ZIP file into another directory
+### Unzip ZIP file into another directory
 
 ```bash
 unzip -o filename.zip -d /path/target_directory/
@@ -20,4 +20,10 @@ unzip -o filename.zip -d /path/target_directory/
 
 ---
 
-## Recover deleted text data/files
+### Recover deleted text data/files
+
+```bash
+grep -a -C 200 'Unique string in text file' /dev/sdX > /mnt/c/Users/Welington/Downloads/recovered.txt
+```
+
+This will search partition `sdX` for data containing the unique string specified and writes it to the file `recovered.txt`
