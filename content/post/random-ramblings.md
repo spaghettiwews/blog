@@ -6,6 +6,12 @@ featured: false
 draft: false
 ---
 
+## 27 March 2020
+
+Looks like we are finally going into lockdown for 21 days starting on Monday. Hoping it's not a case of too little, too late. We thank the president Cyril Ramaphosa for the leadership. Cde. Xerox had to wait a couple of days before announcing so that it wouldn't seem too obvious. I personally think he nailed it. Good job, sir. Good job.
+
+---
+
 ## 25 March 2020
 
 ![A bicycle. My one.](/images/IMG_20190419_101426.jpg)
