@@ -6,6 +6,16 @@ featured: false
 draft: false
 ---
 
+## 1 April 2020
+
+This week's [This American's Life episode](https://www.thisamericanlife.org/698/the-test) is a hard listen. It's terribly heartbreaking. We get to hear first hand accounts from people who have been directly affected by this virus in some pretty devastating ways... There's the story of a husband who had to leave his wife at home while she was sick because he was in essential services only to find her dead when he got back. There's a man completely breaking down on the phone to his brother while discussing him and his wife's sickness and the ever-so-real possibility of them both dying and leaving their daughter behind. And to think some still think that it's not so bad because, well, the fatality rate is not that high. Humans sometimes exhaust me.
+
+---
+
+If there's any silver lining (_there isn't really_) to this pandemic, its that this year we have been spared the godawful April Fool's Day jokes and pranks from tech companies and news publications who think themselves funny.
+
+---
+
 ## 27 March 2020
 
 Looks like we are finally going into lockdown for 21 days starting on Monday. Hoping it's not a case of too little, too late. We thank the president Cyril Ramaphosa for the leadership. Cde. Xerox had to wait a couple of days before announcing so that it wouldn't seem too obvious. Personally, I think he nailed it. Good job, sir. Good job.
