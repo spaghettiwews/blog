@@ -6,6 +6,26 @@ featured: false
 draft: false
 ---
 
+## 2 April 2020
+
+Github seems to be having a bad time at the moment... access is slow AF - if it loads at all, that is.
+
+![github downtime screenshot #1](/images/gh-Screenshot-1.png)
+
+![github downtime screenshot #2](/images/gh-Screenshot-2.png)
+
+![github downtime screenshot #3](/images/gh-Screenshot-3.png)
+
+---
+
+Actually, with the way these MNOs keep pushing their social media data bundles down people's throats, maybe someone should make a WhatsApp bot to subscribe to podcasts where it sends you new episodes as compressed audio as they are released. I mean podcasts are really just RSS feeds... shouldn't be that hard right?
+
+---
+
+I just clandestinely introduced my father to podcasts by downloading an episode and sending it to him via WhatsApp. It was an episode of The Daily, an interview with Dr. Fauci. I had spent part of the evening trying to debunk some fake news and conspiracy theories that he'd forwaded to me about Africans being used as guinea pigs for vaccines, and 5G causing coronavirus. I think he was having a time believing what I was saying so I figured the podcast might save me the trouble 😁
+
+---
+
 ## 1 April 2020
 
 This week's [This American's Life episode](https://www.thisamericanlife.org/698/the-test) is a hard listen. It's terribly heartbreaking. We get to hear first hand accounts from people who have been directly affected by this virus in some pretty devastating ways... There's the story of a husband who had to leave his wife at home while she was sick because he was in essential services only to find her dead when he got back. There's a man completely breaking down on the phone to his brother while discussing him and his wife's sickness and the ever-so-real possibility of them both dying and leaving their daughter behind. And to think some still think that it's not so bad because, well, the fatality rate is not that high. Humans sometimes exhaust me.
