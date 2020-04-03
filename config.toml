@@ -5,6 +5,7 @@ canonifyurls = true
 languagecode = "en"
 theme = "hugo-jessie"
 enableGitInfo = true
+paginate=50
 
 [params]
   tagline = "there is yet insufficient data for a meaningful answer"
