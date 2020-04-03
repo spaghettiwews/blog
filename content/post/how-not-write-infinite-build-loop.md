@@ -1,7 +1,7 @@
 ---
 title: "How not to write an CI/CD build pipeline"
 date: 2020-04-03T09:22:11+02:00
-subtitle: "Not making it an infinite loop seems reasonable enough."
+subtitle: "Not making it an infinite loop should probably be a bare minimum requirement."
 featured: false
 draft: false
 ---
