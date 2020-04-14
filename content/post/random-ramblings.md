@@ -8,6 +8,10 @@ draft: false
 
 ## 14 April 2020
 
+The Spotify algorithm is on point today. It just recommended me some old school Fiddy album/mixtape, "Rare" from 2003, that I honestly have never heard before. And maaaaan, it's that old 50 threatening to smack dudes and nicely disposess them of their jewellery. Bars delivered with such a smooove, effortless flow. I really like this. It's that hunger, 50 was rapping like his life depended on it... probably because it did. Mans needed that deal.
+
+---
+
 Honestly, how is Microsoft this bad at search in their own apps? Don't they own a whole search engine... Look at these screenshots here. The start menu News app tile is showing a headline I find interesting, so I open the app and search for the exact headline text but, surprise surprise, it finds nothing. How? It's literally the same app that's updating that tile. TF.
 
 ![](/images/Annotation-2020-04-14-191638.jpg)
