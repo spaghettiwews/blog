@@ -10,15 +10,17 @@ draft: false
 
 The Spotify algorithm is on point today. It just recommended me some old school Fiddy album/mixtape that I honestly have never heard before. And maaaaan, it's that old 50 threatening to smack dudes and nicely disposess them of their jewellery. Bars delivered with such a smooove, effortless flow. I really like this. It's that hunger, 50 was rapping like his life depended on it... probably because it did. Mans needed that deal.
 
-> 1999's the year of the predator, I'm killin' to eat
-> niggas'll treat you like a egg, you come to cop you get beat
-> gimme your dough, oh, you wore your jewels? what a treat
-> you're a generous guy
-> take 'em off or die
-> man, we hurtin' 'round here, ain't nobody slingin' pies
-> look around, ain't nobody 'round here fly
-> why you 'round here with this shit anyway? huh? you high?
+> 1999's the year of the predator, I'm killin' to eat  \
+> niggas'll treat you like a egg, you come to cop you get beat  \
+> gimme your dough, oh, you wore your jewels? what a treat  \
+> you're a generous guy  \
+> take 'em off or die  \
+> man, we hurtin' 'round here, ain't nobody slingin' pies  \
+> look around, ain't nobody 'round here fly  \
+> why you 'round here with this shit anyway? huh? you high?  \
 > see, you done made the wrong move, kiss your ass goodbye.
+
+😁 50 was a fool, still is actually
 
 ---
 
