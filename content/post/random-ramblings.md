@@ -6,6 +6,22 @@ featured: false
 draft: false
 ---
 
+## 14 April 2020
+
+Honestly, how is Microsoft this bad at search in their own apps? Don't they own a whole search engine... Look at these screenshots here. The start menu News app tile is showing a headline I find interesting, so I open the app and search for the exact headline text but, surprise surprise, it finds nothing. How? It's literally the same app that's updating that tile. TF.
+
+![](/images/Annotation-2020-04-14-191638.jpg)
+
+![](/images/Annotation-2020-04-14-191558.jpg)
+
+---
+
+I have the "This is Rick Ross" essentials playlist as compiled and recommended by Spotify on my home tab. Listening to "Hustlin'" I must say, that beat drop and how Rozay starts his verse is still one of the most fire intros ever.
+
+For his debut single, Mr. Ross could not have done better, I don't think. This is how I personally got introduced to that brash, braggadocious, and loud attitude we've to expect from El Jefe.
+
+---
+
 ## 2 April 2020
 
 Github seems to be having a bad time at the moment... access is slow AF - if it loads at all, that is.
