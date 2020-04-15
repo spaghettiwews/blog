@@ -46,3 +46,5 @@ draft: false
     - [https://almond.stanford.edu/](https://almond.stanford.edu/)
 20. **OpenRefine** - _OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data._
     - [https://openrefine.org/](https://openrefine.org/)
+21. **mdBook** - _mdBook is a utility to create modern online books from Markdown files._
+    - [https://github.com/rust-lang/mdBook/](https://github.com/rust-lang/mdBook/)
