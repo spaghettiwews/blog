@@ -6,18 +6,38 @@ featured: false
 draft: false
 ---
 
+## 15 April 2020
+
+I just stumbled upon a new [MADE IN ZWE](https://madeinzwe.com/) song while scrolling through YouTube. It's 2am and I can't sleep, even though i'm tired and my eyes ares itchy as hell. Either way, I'm glad I found this song - it's been on repeat for the past ~~20 minutes~~ hour and a half now.
+
+I really like this song, much like the rest of the content this collective has been putting out. The start of the song reminds of a Hamilton OST joint, although I can't remember which one right now.
+
+<iframe src="https://open.spotify.com/embed/track/0oQayDca7FTibrlvBahPK6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+My favourite parts are the raps of course, particularly X-O's verse because he shouts out Mzilikazi and Bulawayo, the suburb and city where yours truly was born and raised. Also it just sounds nice hearing someone rapping in English and Ndebele interchangeably and so eloquently. I'm all here for it! Of course, Munashe comes though and does his thing too. He makes it sound do easy hahahaha. Impeccable delivery. Your penship is fire son! Fire! If anything, I would have liked for Michael Chiunda to also be on here. Dude's nice on the mic. No lie.
+
+Unfortunately, I couldn't recognise the rest of the voices of the artists on here but it's safe to say that everyone kilt!! The spoken word interludes were also really well done. Found the credits, those parts are by RUE.
+
+These lyrics have a lot of thoughts racing throuh my mind... The song is a reminiscence of what we were, a contemplation of what could have been, a cry for what we have lost, a celebration of being Zimbabwean, and ultimately a call to action to us the so called "born-frees" (_although I think we were just born into a different era of tyranny than the one our parents and grandparents lived through_). Its equal parts nostalgic and hopeful.
+
+I love it, I really do, but I personally find it hard to be hopeful about a country that fights you at every turn. L's are all we know. Most of us anyways.
+
+OK, I need to try and sleep. Work will be miserable today. 😩
+
+---
+
 ## 14 April 2020
 
 The Spotify algorithm is on point today. It just recommended me some old school Fiddy album/mixtape that I honestly have never heard before. And maaaaan, it's that old 50 threatening to smack dudes and nicely disposess them of their jewellery. Bars delivered with such a smooove, effortless flow. I really like this. It's that hunger, 50 was rapping like his life depended on it... probably because it did. Mans needed that deal.
 
-> 1999's the year of the predator, I'm killin' to eat  \
-> niggas'll treat you like a egg, you come to cop you get beat  \
-> gimme your dough, oh, you wore your jewels? what a treat  \
-> you're a generous guy  \
-> take 'em off or die  \
-> man, we hurtin' 'round here, ain't nobody slingin' pies  \
-> look around, ain't nobody 'round here fly  \
-> why you 'round here with this shit anyway? huh? you high?  \
+> 1999's the year of the predator, I'm killin' to eat \
+> niggas'll treat you like a egg, you come to cop you get beat \
+> gimme your dough, oh, you wore your jewels? what a treat \
+> you're a generous guy \
+> take 'em off or die \
+> man, we hurtin' 'round here, ain't nobody slingin' pies \
+> look around, ain't nobody 'round here fly \
+> why you 'round here with this shit anyway? huh? you high? \
 > see, you done made the wrong move, kiss your ass goodbye.
 
 😁 50 was a fool, still is actually
