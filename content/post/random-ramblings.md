@@ -8,17 +8,20 @@ draft: false
 
 ## 15 April 2020
 
-I just stumbled upon a new [MADE IN ZWE](https://madeinzwe.com/) song while scrolling through YouTube. It's 2am and I can't sleep, even though i'm tired and my eyes ares itchy as hell. Either way, I'm glad I found this song - it's been on repeat for the past ~~20 minutes~~ hour and a half now.
+I just stumbled upon a new [MADE IN ZWE](https://madeinzwe.com/) song while scrolling through YouTube at 2 in the morning. Insomnia is a canine with two X chromosomes. Either way, I'm glad I found this song - it's been on repeat for the past ~~20 minutes~~ hour and a half now.
 
-I really like this song, much like the rest of the content this collective has been putting out. The start of the song reminds of a Hamilton OST joint, although I can't remember which one right now.
+I'm really liking this, much like the rest of the content this collective has been putting out. The start of the song reminds of a Hamilton OST joint, I just can't put my finger on it right now.
 
-<iframe src="https://open.spotify.com/embed/track/0oQayDca7FTibrlvBahPK6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{{< rawhtml >}}
 
-My favourite parts are the raps of course, particularly X-O's verse because he shouts out Mzilikazi and Bulawayo, the suburb and city where yours truly was born and raised. Also it just sounds nice hearing someone rapping in English and Ndebele interchangeably and so eloquently. I'm all here for it! Of course, Munashe comes though and does his thing too. He makes it sound do easy hahahaha. Impeccable delivery. Your penship is fire son! Fire! If anything, I would have liked for Michael Chiunda to also be on here. Dude's nice on the mic. No lie.
+<iframe src="https://open.spotify.com/embed/track/0oQayDca7FTibrlvBahPK6" width="700" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{{< /rawhtml >}}
 
-Unfortunately, I couldn't recognise the rest of the voices of the artists on here but it's safe to say that everyone kilt!! The spoken word interludes were also really well done. Found the credits, those parts are by RUE.
+Rap verses are solid, both X-O and Munashe's deliveries are impeccable. Haha a shout out to Mzilikazi and Bulawayo, nice. It's so refreshing to hear English, Ndebele, and Shona being spit interchangeably and yet so eloquently. I'm all here for it man! The penmanship is fire son! Fire! If anything, I would have liked for Michael Chiunda to have also featured. Dude's nice on the mic. No lie.
 
-These lyrics have a lot of thoughts racing throuh my mind... The song is a reminiscence of what we were, a contemplation of what could have been, a cry for what we have lost, a celebration of being Zimbabwean, and ultimately a call to action to us the so called "born-frees" (_although I think we were just born into a different era of tyranny than the one our parents and grandparents lived through_). Its equal parts nostalgic and hopeful.
+Unfortunately, I can't recognise the rest of the voices of the artists on here but it's safe to say that everyone went in!! The spoken word interludes were also really well done. Found the credits, those parts are by RUE.
+
+These lyrics have a lot of thoughts racing through my mind... The song is a reminiscence of what we were, a contemplation of what could have been, a cry for what we have lost, a celebration of being Zimbabwean, and ultimately a call to action to us the so called "born-frees" (_although I think we were just born into a different era of tyranny than the one our parents and grandparents lived through_). It's equal parts nostalgic and hopeful.
 
 I love it, I really do, but I personally find it hard to be hopeful about a country that fights you at every turn. L's are all we know. Most of us anyways.
 
