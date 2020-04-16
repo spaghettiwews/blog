@@ -1,7 +1,7 @@
 ---
 title: "Infinite scroll is bad"
 date: 2020-04-15T22:46:48+02:00
-subtitle: "Just another vacuous that nobody asked for nor wanted."
+subtitle: "Just another vacuous feature that nobody asked for nor wanted."
 featured: false
 draft: false
 ---
