@@ -6,6 +6,16 @@ featured: false
 draft: false
 ---
 
+## 12 May 2020
+
+[Hamilton is coming to Disney+ a year early!!](https://arstechnica.com/gaming/2020/05/hamilton-is-coming-to-disney-a-year-early-just-in-time-for-fourth-of-july/) Super excited for this. I've only been waiting since 2015 when the original show got released. Obviously couldn't watch it then (_and for the next 5 years_) because the tickets were going for $1500+ a pop and it was only screening in the States. I remember listening to the first track of the Hamilton OST and getting instantly hooked. The story telling was so vivid, I had that one track on repeat for 30 minutes straight. I even remember where I was 😂.
+
+Oh man.. this is going to be good.
+
+![](https://giphy.com/gifs/excited-screaming-jonah-hill-5GoVLqeAOo6PK)
+
+---
+
 ## 15 April 2020
 
 I just stumbled upon a new [MADE IN ZWE](https://madeinzwe.com/) song while scrolling through YouTube at 2 in the morning. Insomnia is a canine with two X chromosomes. Either way, I'm glad I found this song - it's been on repeat for the past ~~20 minutes~~ hour and a half now.
