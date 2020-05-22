@@ -6,6 +6,12 @@ featured: false
 draft: false
 ---
 
+## 23 May 2020
+
+It's exactly 4 weeks today since I installed Ubuntu as my main OS and I think, finally, after years of toying back and forth with a move, I'm here to stay. Ubuntu 20.04 feels so polished and easy to use, it's just a great experience. I guess it also helps that I've gotten much more comfortable using the commandline over the years. Windows 10 has just been awfully frutstrating of late and a new LTS version of Ubuntu coming out when it did was just the excuse I needed to make the move. Whilst I still have to use Windows for work it's adios to shitty, inconsistent UIs and awful, terrible, no good search on my personal machine at least. An added bonus is that a lot of software I enjoy tinkering with (_that is primarily suited to *nix environments_) now just works without nasty hacks or workarounds... To be fair to Microsoft though, WSL had improved things a whole lot on that front but I figured if the reason I'm ennjoying working in Windows more and more is WSL I may as well move to the full experience. I did, and I was not disappointed for it.
+
+---
+
 ## 12 May 2020
 
 [Hamilton is coming to Disney+ a year early!!](https://arstechnica.com/gaming/2020/05/hamilton-is-coming-to-disney-a-year-early-just-in-time-for-fourth-of-july/) Super excited for this. I've only been waiting since 2015 when the original show got released. Obviously couldn't watch it then (_and for the next 5 years_) because the tickets were going for $1500+ a pop and it was only screening in the States. I remember listening to the first track of the Hamilton OST and getting instantly hooked. The story telling was so vivid, I had that one track on repeat for 30 minutes straight. I even remember where I was 😂.
