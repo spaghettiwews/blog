@@ -6,6 +6,12 @@ featured: false
 draft: false
 ---
 
+## 3 July 2020
+
+Just finished watching Hamilton and maaaaan was that 5 year wait worth it!!! Absolute Perfection. Crazy impeccable perfomances, choreography, production, everything was just 🔥🔥🔥🔥🔥.
+
+---
+
 ## 23 May 2020
 
 It's exactly 4 weeks today since I installed Ubuntu as my main OS and I think, finally, after years of toying back and forth with a move, I'm here to stay. Ubuntu 20.04 feels so polished and easy to use, it's just a great experience. I guess it also helps that I've gotten much more comfortable using the commandline over the years. Windows 10 has just been awfully frutstrating of late and a new LTS version of Ubuntu coming out when it did was just the excuse I needed to make the move. Whilst I still have to use Windows for work it's adios to shitty, inconsistent UIs and awful, terrible, no good search on my personal machine at least. An added bonus is that a lot of software I enjoy tinkering with (_that is primarily suited to *nix environments_) now just works without nasty hacks or workarounds... To be fair to Microsoft though, WSL had improved things a whole lot on that front but I figured if the reason I'm ennjoying working in Windows more and more is WSL I may as well move to the full experience. I did, and I was not disappointed for it.
