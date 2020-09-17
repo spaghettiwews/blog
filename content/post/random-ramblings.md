@@ -6,6 +6,24 @@ featured: false
 draft: false
 ---
 
+## 18 September 2020
+
+Been a while since I wrote anything on here... and so much has happened in between. The coronavirus is still raging hard in the Western world, Africa mostly shrugged it off (_knock on wood_) and a lot of countries are now reopening, I have started playing and getting comfortable with AWS at the urging of my homie Marengz and one Meru-kun (_tall ugly fella of note_), I'm still cycling, this week I became a victim of a card cloning attack (_fuckers robbed me blind_) and jury's still out on whether the bank will reimburse those funds, ZANU is still a cancer obviously, Chadwick Boseman passed away, Zoom meetings are still going strong, I'm still working from home, [NVIDIA launched their 3000 series of cards today and they got sold out in seconds leaving a bunch of day-oners sad](https://web.archive.org/web/20200917200027/https://www.theverge.com/2020/9/17/21443901/nvidia-rtx-3080-ebay-reselling-sold-out-shortages), etc etc. Same old shit dawg, it's a different day.
+
+Anyways, the actual reason I started writing is because I wanted to say this is the best, most rivetting trailer I have ever watched in my life. I can't stop watching it. It's that good. I AM... A REVOLUTIONAAARY!!! I AAAAM... A REVOLUTIONAAARY!!! DANIEL KALUUYA IS AMAZING MAN.
+
+I'MMA DIE FOR THE PEOPLE COZ I LIVE THE PEOPLE!! I LIVE FOR THE PEOPLE COZ I LOVE THE PEOPLE!!
+
+Can. not. wait.
+
+{{<rawhtml>}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sSjtGqRXQ9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{</rawhtml>}}
+
+Till next time... fuck cancer. 
+
+---
+
 ## 3 July 2020
 
 Just finished watching Hamilton and maaaaan was that 5 year wait worth it!!! Absolute Perfection. Crazy impeccable perfomances, choreography, production, everything was just 🔥🔥🔥🔥🔥.
