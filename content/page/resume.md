@@ -64,8 +64,8 @@ Business Analysis, Solution Design, Application Development, Project Management 
 
 ### Personal projects
 
-- [trailers](https://trailers.wews.co) / A script for scraping movie trailers.
-- [rssdeck](https://rssdeck.wews.co) / A web RSS client.
+- [trailers](https://trailers.wews.co.zw) / A script for scraping movie trailers.
+- [rssdeck](https://rssdeck.wews.co.zw) / A web RSS client.
 - [hugonews](https://github.com/spaghettiwews/hugonews/) / A Hugo theme for a personal link aggregation site.
 
 ---
