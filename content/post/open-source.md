@@ -2,7 +2,7 @@
 title: "Open source software and tools I like"
 date: 2019-02-17T15:32:47+02:00
 subtitle: "Some of these I use on a regular basis, others just caught my eye and I hope to tinker with them at some point."
-featured: true
+featured: false
 draft: false
 ---
 
