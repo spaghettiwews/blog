@@ -1,7 +1,7 @@
 ---
 title: "Feeling nostalgia for my old game library and a 486SX PC"
 date: 2022-01-07T10:27:54+02:00
-excerpt: "With its 8Mb RAM and 32Mb HDD"
+subtitle: "With its 8Mb RAM and 32Mb hard drive."
 featured: true
 draft: false
 ---

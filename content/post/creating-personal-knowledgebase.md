@@ -1,7 +1,7 @@
 ---
 title: "Creating a personal knowledgebase"
 date: 2019-03-13T20:42:05+02:00
-subtitle: ""
+subtitle: "I ended up just using Obsidian for this. 32 months later."
 featured: false
 draft: false
 ---

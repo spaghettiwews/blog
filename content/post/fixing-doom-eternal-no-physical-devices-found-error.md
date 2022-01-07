@@ -1,7 +1,7 @@
 ---
 title: "Fixing Doom Eternal's \"No Physical Devices Found\" Error. Well, not really."
 date: 2021-12-16T23:14:59+02:00
-excerpt: "What do you mean no GFX cards found? I have two!"
+subtitle: "What do you mean no GFX cards found? I have two!"
 featured: false
 draft: false
 ---
